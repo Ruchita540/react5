@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+body{
+  background: linear-gradient(yellow, pink, gray, skyblue, green);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
